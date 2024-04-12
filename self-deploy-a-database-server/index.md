@@ -10,7 +10,7 @@ documentation: ug
 
 Explore detailed instructions for configuring a database on Microsoft Azure in this section. Follow the link below to efficiently set up and manage your database resources, ensuring optimal performance and security.
 
-[Setting up the Database manually](/self-deploy-a-database-server/manual-database-setup/)
+[Setting up the Database manually](manual-database-setup.md)
 
-[Configure a Managed Database Service](/self-deploy-a-database-server/managed-database-setup/)
+[Configure a Managed Database Service](managed-database-setup)
 
